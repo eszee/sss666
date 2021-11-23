@@ -1,0 +1,16 @@
+
+h1{
+    text-align: center;
+}
+.div img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 220px;
+    width: 270px;
+}
+.div{
+    margin: 0px auto;
+    height: auto;
+    width:  20%;
+}
